@@ -1,0 +1,14 @@
+name: pdf
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - diffpy.cmi
+  - mp-api
+  - pymatgen
+  - scikit-learn
+  - scipy
+  - numpy
+  - matplotlib
+  - pandas
+  - pip

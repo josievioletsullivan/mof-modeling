@@ -1,0 +1,9 @@
+name: snmf
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - diffpy.snmf
+  - numpy
+  - scipy
+  - matplotlib
