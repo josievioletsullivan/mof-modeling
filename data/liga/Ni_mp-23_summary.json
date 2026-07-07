@@ -1,0 +1,23 @@
+{
+  "target": "Ni_mp-23",
+  "latpar": [
+    3.47514587,
+    3.47514587,
+    3.47514587,
+    90.0,
+    90.0,
+    90.0
+  ],
+  "natoms": 4,
+  "formula": "Ni4",
+  "rmax": 8.0,
+  "n_picked": 10,
+  "solution_found": true,
+  "final_cost": 1.3668e-06,
+  "max_err_A": 0.0007029560643803147,
+  "rms_err_A": 0.0005698115685289467,
+  "n_matched": 4,
+  "chemistry_ok": true,
+  "chemistry": "n/a (monatomic)",
+  "pass_": true
+}

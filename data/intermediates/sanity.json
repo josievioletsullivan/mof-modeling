@@ -1,0 +1,203 @@
+[
+  {
+    "initial": "Al_mp-134",
+    "final": "Cu_mp-30",
+    "t": 0.5,
+    "natoms": 4,
+    "species": [
+      "Al"
+    ],
+    "morph": "lattice",
+    "coord_rmsd": 0.0,
+    "scale_ratio": 1.0120455023986232,
+    "scale_ok": true,
+    "corr_vs_blend": -0.18614525138245472
+  },
+  {
+    "initial": "Al_mp-134",
+    "final": "Ni_mp-23",
+    "t": 0.5,
+    "natoms": 4,
+    "species": [
+      "Al"
+    ],
+    "morph": "lattice",
+    "coord_rmsd": 0.0,
+    "scale_ratio": 1.006455647562705,
+    "scale_ok": true,
+    "corr_vs_blend": -0.15233187823162098
+  },
+  {
+    "initial": "Cu_mp-30",
+    "final": "Al_mp-134",
+    "t": 0.5,
+    "natoms": 4,
+    "species": [
+      "Cu"
+    ],
+    "morph": "lattice",
+    "coord_rmsd": 0.0,
+    "scale_ratio": 1.0120455023986237,
+    "scale_ok": true,
+    "corr_vs_blend": -0.18614525138245436
+  },
+  {
+    "initial": "Cu_mp-30",
+    "final": "Ni_mp-23",
+    "t": 0.5,
+    "natoms": 4,
+    "species": [
+      "Cu"
+    ],
+    "morph": "lattice",
+    "coord_rmsd": 0.0,
+    "scale_ratio": 1.0031223485274707,
+    "scale_ok": true,
+    "corr_vs_blend": 0.9183794779152035
+  },
+  {
+    "initial": "Ni_mp-23",
+    "final": "Al_mp-134",
+    "t": 0.5,
+    "natoms": 4,
+    "species": [
+      "Ni"
+    ],
+    "morph": "lattice",
+    "coord_rmsd": 0.0,
+    "scale_ratio": 1.0064556475627062,
+    "scale_ok": true,
+    "corr_vs_blend": -0.15233187823161778
+  },
+  {
+    "initial": "Ni_mp-23",
+    "final": "Cu_mp-30",
+    "t": 0.5,
+    "natoms": 4,
+    "species": [
+      "Ni"
+    ],
+    "morph": "lattice",
+    "coord_rmsd": 0.0,
+    "scale_ratio": 1.0031223485274707,
+    "scale_ok": true,
+    "corr_vs_blend": 0.9183794779152001
+  },
+  {
+    "initial": "CsCl_mp-22865",
+    "final": "Fe_mp-13",
+    "t": 0.5,
+    "natoms": 2,
+    "species": [
+      "Cl",
+      "Cs"
+    ],
+    "morph": "lattice",
+    "coord_rmsd": 0.0,
+    "scale_ratio": 1.0104444235581618,
+    "scale_ok": true,
+    "corr_vs_blend": -0.025764647787499925
+  },
+  {
+    "initial": "Fe_mp-13",
+    "final": "CsCl_mp-22865",
+    "t": 0.5,
+    "natoms": 2,
+    "species": [
+      "Fe"
+    ],
+    "morph": "lattice",
+    "coord_rmsd": 0.0,
+    "scale_ratio": 1.0493749846902662,
+    "scale_ok": true,
+    "corr_vs_blend": -0.08003769823477828
+  },
+  {
+    "initial": "MgO_mp-1265",
+    "final": "NaCl_mp-22862",
+    "t": 0.5,
+    "natoms": 8,
+    "species": [
+      "Mg",
+      "O"
+    ],
+    "morph": "lattice",
+    "coord_rmsd": 0.0,
+    "scale_ratio": 1.0117641588675268,
+    "scale_ok": true,
+    "corr_vs_blend": -0.1009663351149746
+  },
+  {
+    "initial": "MgO_mp-1265",
+    "final": "Si_mp-149",
+    "t": 0.5,
+    "natoms": 8,
+    "species": [
+      "Mg",
+      "O"
+    ],
+    "morph": "reconstructive",
+    "coord_rmsd": 0.27003086243366087,
+    "scale_ratio": 0.5724529415706374,
+    "scale_ok": true,
+    "corr_vs_blend": 0.10270531322707517
+  },
+  {
+    "initial": "NaCl_mp-22862",
+    "final": "MgO_mp-1265",
+    "t": 0.5,
+    "natoms": 8,
+    "species": [
+      "Cl",
+      "Na"
+    ],
+    "morph": "lattice",
+    "coord_rmsd": 0.0,
+    "scale_ratio": 1.0107953565080365,
+    "scale_ok": true,
+    "corr_vs_blend": -0.09646199250769175
+  },
+  {
+    "initial": "NaCl_mp-22862",
+    "final": "Si_mp-149",
+    "t": 0.5,
+    "natoms": 8,
+    "species": [
+      "Cl",
+      "Na"
+    ],
+    "morph": "reconstructive",
+    "coord_rmsd": 0.27003086243366087,
+    "scale_ratio": 0.5850699989138839,
+    "scale_ok": true,
+    "corr_vs_blend": -0.12382543406610848
+  },
+  {
+    "initial": "Si_mp-149",
+    "final": "MgO_mp-1265",
+    "t": 0.5,
+    "natoms": 8,
+    "species": [
+      "Si"
+    ],
+    "morph": "reconstructive",
+    "coord_rmsd": 0.27003086243366087,
+    "scale_ratio": 0.5506193004605724,
+    "scale_ok": true,
+    "corr_vs_blend": 0.10754839916288131
+  },
+  {
+    "initial": "Si_mp-149",
+    "final": "NaCl_mp-22862",
+    "t": 0.5,
+    "natoms": 8,
+    "species": [
+      "Si"
+    ],
+    "morph": "reconstructive",
+    "coord_rmsd": 0.27003086243366087,
+    "scale_ratio": 0.5825880902604621,
+    "scale_ok": true,
+    "corr_vs_blend": -0.11496886469526643
+  }
+]

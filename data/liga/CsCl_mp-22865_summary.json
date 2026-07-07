@@ -1,0 +1,23 @@
+{
+  "target": "CsCl_mp-22865",
+  "latpar": [
+    4.14369834,
+    4.14369834,
+    4.14369834,
+    90.0,
+    90.0,
+    90.0
+  ],
+  "natoms": 2,
+  "formula": "Cs1Cl1",
+  "rmax": 8.0,
+  "n_picked": 4,
+  "solution_found": true,
+  "final_cost": 9.30544e-07,
+  "max_err_A": 0.0006403810324329182,
+  "rms_err_A": 0.0004528177705765589,
+  "n_matched": 2,
+  "chemistry_ok": true,
+  "chemistry": "up-to-global-swap (PDF-degenerate)",
+  "pass_": true
+}

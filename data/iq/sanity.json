@@ -1,0 +1,87 @@
+[
+  {
+    "structure": "Al_mp-134",
+    "corr_vs_pdf2": 0.9847168947641574,
+    "amp_ratio": 0.9368406861785408,
+    "composition": {
+      "Al": 1.0
+    }
+  },
+  {
+    "structure": "CaF2_mp-2741",
+    "corr_vs_pdf2": 0.9895299127768291,
+    "amp_ratio": 0.9135205886508266,
+    "composition": {
+      "Ca": 0.333,
+      "F": 0.667
+    }
+  },
+  {
+    "structure": "CsCl_mp-22865",
+    "corr_vs_pdf2": 0.986668086167112,
+    "amp_ratio": 0.8996185962825857,
+    "composition": {
+      "Cl": 0.5,
+      "Cs": 0.5
+    }
+  },
+  {
+    "structure": "Cu_mp-30",
+    "corr_vs_pdf2": 0.9851018188891268,
+    "amp_ratio": 0.9038585940585421,
+    "composition": {
+      "Cu": 1.0
+    }
+  },
+  {
+    "structure": "Fe_mp-13",
+    "corr_vs_pdf2": 0.9906149620852671,
+    "amp_ratio": 0.9165049289297796,
+    "composition": {
+      "Fe": 1.0
+    }
+  },
+  {
+    "structure": "MgO_mp-1265",
+    "corr_vs_pdf2": 0.9880432353005203,
+    "amp_ratio": 0.9047840965842519,
+    "composition": {
+      "Mg": 0.5,
+      "O": 0.5
+    }
+  },
+  {
+    "structure": "NaCl_mp-22862",
+    "corr_vs_pdf2": 0.9825756895077744,
+    "amp_ratio": 0.9209588475390773,
+    "composition": {
+      "Cl": 0.5,
+      "Na": 0.5
+    }
+  },
+  {
+    "structure": "Ni_mp-23",
+    "corr_vs_pdf2": 0.9863417935138998,
+    "amp_ratio": 0.9055295470851932,
+    "composition": {
+      "Ni": 1.0
+    }
+  },
+  {
+    "structure": "Si_mp-149",
+    "corr_vs_pdf2": 0.9739221470248998,
+    "amp_ratio": 0.9357471323480623,
+    "composition": {
+      "Si": 1.0
+    }
+  },
+  {
+    "structure": "ZnS_mp-554820",
+    "corr_vs_pdf2": 0.9878985417449311,
+    "amp_ratio": 0.9112575332704802,
+    "composition": {
+      "S": 0.5,
+      "Zn": 0.5
+    }
+  }
+]

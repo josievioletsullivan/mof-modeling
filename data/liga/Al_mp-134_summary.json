@@ -1,0 +1,23 @@
+{
+  "target": "Al_mp-134",
+  "latpar": [
+    4.03892969,
+    4.03892969,
+    4.03892969,
+    90.0,
+    90.0,
+    90.0
+  ],
+  "natoms": 4,
+  "formula": "Al4",
+  "rmax": 8.0,
+  "n_picked": 7,
+  "solution_found": true,
+  "final_cost": 8.0326e-07,
+  "max_err_A": 0.0006269785188117729,
+  "rms_err_A": 0.0004113234904704138,
+  "n_matched": 4,
+  "chemistry_ok": true,
+  "chemistry": "n/a (monatomic)",
+  "pass_": true
+}

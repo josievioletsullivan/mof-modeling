@@ -1,0 +1,23 @@
+{
+  "target": "MgO_mp-1265",
+  "latpar": [
+    4.19400279,
+    4.19400279,
+    4.19400279,
+    90.0,
+    90.0,
+    90.0
+  ],
+  "natoms": 8,
+  "formula": "Mg4O4",
+  "rmax": 7.0,
+  "n_picked": 9,
+  "solution_found": false,
+  "final_cost": 0.003175,
+  "max_err_A": 0.0007963172973599095,
+  "rms_err_A": 0.00042125971091172185,
+  "n_matched": 8,
+  "chemistry_ok": true,
+  "chemistry": "exact",
+  "pass_": true
+}

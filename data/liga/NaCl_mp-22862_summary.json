@@ -1,0 +1,23 @@
+{
+  "target": "NaCl_mp-22862",
+  "latpar": [
+    5.58812644,
+    5.58812644,
+    5.58812644,
+    90.0,
+    90.0,
+    90.0
+  ],
+  "natoms": 8,
+  "formula": "Na4Cl4",
+  "rmax": 7.0,
+  "n_picked": 6,
+  "solution_found": false,
+  "final_cost": 0.00774853,
+  "max_err_A": 0.0009109293114174474,
+  "rms_err_A": 0.0007267922920413658,
+  "n_matched": 8,
+  "chemistry_ok": true,
+  "chemistry": "exact",
+  "pass_": true
+}

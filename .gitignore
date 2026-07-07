@@ -6,3 +6,9 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .venv/
+
+# third-party tool clones (rebuildable; see memory/docs)
+external/
+# LIGA verbose iteration logs + solver working dirs (junk; keep summaries + solved xyz)
+data/liga/*.log
+data/liga/*_run/

@@ -9,9 +9,11 @@ ROOT = Path(__file__).resolve().parent
 DATA = ROOT / "data"
 STRUCTURES = DATA / "structures"
 PDFS = DATA / "pdfs"
+INTERMEDIATES = DATA / "intermediates"   # §3 morphed structures + their PDFs
+IQ = DATA / "iq"                         # §4 I(Q) + PDFs via Fourier transform
 MIXTURES = DATA / "mixtures"
 RESULTS = DATA / "results"
-for _d in (STRUCTURES, PDFS, MIXTURES, RESULTS):
+for _d in (STRUCTURES, PDFS, INTERMEDIATES, IQ, MIXTURES, RESULTS):
     _d.mkdir(parents=True, exist_ok=True)
 
 # real-space grid (Angstrom) -- the canonical grid; never rebuild ad hoc

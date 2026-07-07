@@ -1,0 +1,23 @@
+{
+  "target": "ZnS_mp-554820",
+  "latpar": [
+    3.80878728,
+    3.80878728,
+    87.11078676,
+    90.0,
+    90.0,
+    120.0
+  ],
+  "natoms": 56,
+  "formula": "Zn28S28",
+  "rmax": 8.0,
+  "n_picked": 8,
+  "solution_found": false,
+  "final_cost": 0.0094962,
+  "max_err_A": 2.3137525938108348,
+  "rms_err_A": 1.5746665344803221,
+  "n_matched": 27,
+  "chemistry_ok": false,
+  "chemistry": "WRONG",
+  "pass_": false
+}

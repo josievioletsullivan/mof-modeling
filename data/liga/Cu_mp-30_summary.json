@@ -1,0 +1,23 @@
+{
+  "target": "Cu_mp-30",
+  "latpar": [
+    3.57743067,
+    3.57743067,
+    3.57743067,
+    90.0,
+    90.0,
+    90.0
+  ],
+  "natoms": 4,
+  "formula": "Cu4",
+  "rmax": 7.0,
+  "n_picked": 7,
+  "solution_found": true,
+  "final_cost": 1.15457e-06,
+  "max_err_A": 0.0004596196519407943,
+  "rms_err_A": 0.0003980422946592895,
+  "n_matched": 4,
+  "chemistry_ok": true,
+  "chemistry": "n/a (monatomic)",
+  "pass_": true
+}

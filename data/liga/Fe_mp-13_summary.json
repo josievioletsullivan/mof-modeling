@@ -1,0 +1,23 @@
+{
+  "target": "Fe_mp-13",
+  "latpar": [
+    2.8630355,
+    2.8630355,
+    2.8630355,
+    90.0,
+    90.0,
+    90.0
+  ],
+  "natoms": 2,
+  "formula": "Fe2",
+  "rmax": 11.0,
+  "n_picked": 13,
+  "solution_found": false,
+  "final_cost": 0.00939413,
+  "max_err_A": 0.0,
+  "rms_err_A": 0.0,
+  "n_matched": 1,
+  "chemistry_ok": true,
+  "chemistry": "n/a (monatomic)",
+  "pass_": false
+}

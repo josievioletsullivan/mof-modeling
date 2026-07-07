@@ -1,0 +1,16 @@
+[
+  "Al_mp-134__Cu_mp-30__t50",
+  "Al_mp-134__Ni_mp-23__t50",
+  "Cu_mp-30__Al_mp-134__t50",
+  "Cu_mp-30__Ni_mp-23__t50",
+  "Ni_mp-23__Al_mp-134__t50",
+  "Ni_mp-23__Cu_mp-30__t50",
+  "CsCl_mp-22865__Fe_mp-13__t50",
+  "Fe_mp-13__CsCl_mp-22865__t50",
+  "MgO_mp-1265__NaCl_mp-22862__t50",
+  "MgO_mp-1265__Si_mp-149__t50",
+  "NaCl_mp-22862__MgO_mp-1265__t50",
+  "NaCl_mp-22862__Si_mp-149__t50",
+  "Si_mp-149__MgO_mp-1265__t50",
+  "Si_mp-149__NaCl_mp-22862__t50"
+]

@@ -1,0 +1,23 @@
+{
+  "target": "CaF2_mp-2741",
+  "latpar": [
+    5.51605194,
+    5.51605194,
+    5.51605194,
+    90.0,
+    90.0,
+    90.0
+  ],
+  "natoms": 12,
+  "formula": "Ca4F8",
+  "rmax": 8.0,
+  "n_picked": 9,
+  "solution_found": false,
+  "final_cost": 0.00398861,
+  "max_err_A": 0.0013010328567242475,
+  "rms_err_A": 0.0009908275386431465,
+  "n_matched": 12,
+  "chemistry_ok": true,
+  "chemistry": "exact",
+  "pass_": true
+}

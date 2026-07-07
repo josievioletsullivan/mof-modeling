@@ -1,0 +1,23 @@
+{
+  "target": "Si_mp-149",
+  "latpar": [
+    5.44370237,
+    5.44370237,
+    5.44370237,
+    90.0,
+    90.0,
+    90.0
+  ],
+  "natoms": 8,
+  "formula": "Si8",
+  "rmax": 8.0,
+  "n_picked": 8,
+  "solution_found": true,
+  "final_cost": 8.71178e-07,
+  "max_err_A": 0.0013846417538910187,
+  "rms_err_A": 0.000816667170220077,
+  "n_matched": 8,
+  "chemistry_ok": true,
+  "chemistry": "n/a (monatomic)",
+  "pass_": true
+}
