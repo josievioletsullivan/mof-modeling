@@ -1,0 +1,28 @@
+{
+  "source": "diffpysim (physical lattice expansion)",
+  "phases": [
+    "Ni",
+    "NaCl",
+    "Si"
+  ],
+  "n_samples": 24,
+  "uiso": 0.07,
+  "pca_rank_unstretched": 2,
+  "pca_rank_stretched": 9,
+  "snmf_component_corr": {
+    "Si": 0.5853,
+    "NaCl": 0.9612,
+    "Ni": 0.8823
+  },
+  "plain_nmf_component_corr_mean": 0.5049,
+  "stretch_corr": {
+    "Si": 0.9853,
+    "NaCl": 0.8865,
+    "Ni": 0.7337
+  },
+  "weight_corr": {
+    "Si": 0.9095,
+    "NaCl": 0.9442,
+    "Ni": 0.9796
+  }
+}

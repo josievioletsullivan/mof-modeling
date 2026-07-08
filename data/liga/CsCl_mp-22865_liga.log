@@ -1,0 +1,53 @@
+########################################################################
+# mpbcliga
+# mpbcliga 1.2.1.post39 3337c18 2025-06-16 16:20:47 -0400 Simon Billinge
+# Compiled with Apple LLVM 17.0.0 (clang-1700.0.13.5).
+# Josies-MacBook-Air.local
+# Tue Jul  7 10:47:21 2026
+########################################################################
+distfile=/Users/josievs/Desktop/MOF modeling/data/liga/CsCl_mp-22865_run/target.dst
+outstru=/Users/josievs/Desktop/MOF modeling/data/liga/CsCl_mp-22865_solved.xyz
+outfmt=rawxyz
+saverate=0
+saveall=0
+trace=0
+verbose=wc,bc,sc
+ndim=3
+crystal=1
+latpar=4.1437,4.1437,4.1437,90,90,90
+rmax=6.87278
+distreuse=1
+costweights=1,1
+tolcost=0.0001
+formula=CsCl
+radii=Cl:1.81,Cs:1.67
+maxwalltime=180
+rngseed=42
+promotefrac=0.1
+promoterelax=0
+demoterelax=0
+ligasize=10
+stopgame=0.0025
+seasontrials=16384
+trialsharing=success
+########################################################################
+
+Initial team
+0 I 0 0
+Filling lower divisions
+Done
+0 WC 0 0 dc 0 oc 0
+0 BC 0 0 dc 0 oc 0
+
+Starting the game ... now.
+1 WC 2 9.30544e-07 dc 9.30544e-07 oc 0
+1 BC 2 9.30544e-07 dc 9.30544e-07 oc 0
+Solution found!!!
+
+Run statistics:
+R3_distance_calls = 1192
+R3_norm_calls = 2225050
+penalty_calls = 260747
+UserCPUtime = 0.07s
+walltime = 0s
+Host = Josies-MacBook-Air.local

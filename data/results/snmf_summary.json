@@ -1,0 +1,24 @@
+{
+  "phases": [
+    "Ni_mp-23",
+    "NaCl_mp-22862",
+    "Si_mp-149"
+  ],
+  "n_samples": 24,
+  "max_expansion": 0.1,
+  "pca_rank_unstretched": 2,
+  "pca_rank_stretched": 8,
+  "snmf_residual": 4.351913571304129,
+  "plain_residual": 488.76487569228124,
+  "snmf_component_corr": {
+    "Si_mp-149": 0.174,
+    "NaCl_mp-22862": 0.831,
+    "Ni_mp-23": 0.9672
+  },
+  "plain_component_corr_mean": 0.579,
+  "stretch_corr": {
+    "Si_mp-149": 0.9989,
+    "NaCl_mp-22862": 0.9972,
+    "Ni_mp-23": 0.9894
+  }
+}

@@ -1,0 +1,150 @@
+[
+  {
+    "name": "s5_nmf",
+    "title": "\u00a75 NMF (10 phases, no stretch)",
+    "n": 10,
+    "pairs": [
+      {
+        "phase": "Al",
+        "calc_index": 4,
+        "pearson": 0.9695,
+        "rw": 0.245,
+        "chi2_reduced": 0.053646
+      },
+      {
+        "phase": "CaF2",
+        "calc_index": 1,
+        "pearson": 0.9823,
+        "rw": 0.1873,
+        "chi2_reduced": 0.039501
+      },
+      {
+        "phase": "CsCl",
+        "calc_index": 2,
+        "pearson": 0.9939,
+        "rw": 0.1105,
+        "chi2_reduced": 0.011475
+      },
+      {
+        "phase": "Cu",
+        "calc_index": 6,
+        "pearson": 0.9749,
+        "rw": 0.2224,
+        "chi2_reduced": 0.051112
+      },
+      {
+        "phase": "Fe",
+        "calc_index": 0,
+        "pearson": 0.8302,
+        "rw": 0.5572,
+        "chi2_reduced": 0.492264
+      },
+      {
+        "phase": "MgO",
+        "calc_index": 3,
+        "pearson": 0.9979,
+        "rw": 0.064,
+        "chi2_reduced": 0.004391
+      },
+      {
+        "phase": "NaCl",
+        "calc_index": 5,
+        "pearson": 0.9682,
+        "rw": 0.2499,
+        "chi2_reduced": 0.05063
+      },
+      {
+        "phase": "Ni",
+        "calc_index": 8,
+        "pearson": 0.924,
+        "rw": 0.3821,
+        "chi2_reduced": 0.154261
+      },
+      {
+        "phase": "Si",
+        "calc_index": 7,
+        "pearson": -0.2013,
+        "rw": 0.9795,
+        "chi2_reduced": 0.748324
+      },
+      {
+        "phase": "ZnS",
+        "calc_index": 9,
+        "pearson": 0.9627,
+        "rw": 0.2707,
+        "chi2_reduced": 0.051684
+      }
+    ],
+    "product_r": 0.1325,
+    "mean_r": 0.8805,
+    "min_r": 0.2013,
+    "mean_rw": 0.3269,
+    "max_rw": 0.9795
+  },
+  {
+    "name": "s6_snmf",
+    "title": "\u00a76 SNMF (3 phases, synthetic stretch)",
+    "n": 3,
+    "pairs": [
+      {
+        "phase": "Ni",
+        "calc_index": 2,
+        "pearson": 0.9672,
+        "rw": 0.2539,
+        "chi2_reduced": 0.074049
+      },
+      {
+        "phase": "NaCl",
+        "calc_index": 1,
+        "pearson": 0.831,
+        "rw": 0.556,
+        "chi2_reduced": 0.279265
+      },
+      {
+        "phase": "Si",
+        "calc_index": 0,
+        "pearson": 0.174,
+        "rw": 0.9841,
+        "chi2_reduced": 0.9005
+      }
+    ],
+    "product_r": 0.1399,
+    "mean_r": 0.6574,
+    "min_r": 0.174,
+    "mean_rw": 0.598,
+    "max_rw": 0.9841
+  },
+  {
+    "name": "s7_diffpysim",
+    "title": "\u00a77 SNMF (3 phases, physical stretch)",
+    "n": 3,
+    "pairs": [
+      {
+        "phase": "Ni",
+        "calc_index": 2,
+        "pearson": 0.8823,
+        "rw": 0.4706,
+        "chi2_reduced": 0.28145
+      },
+      {
+        "phase": "NaCl",
+        "calc_index": 1,
+        "pearson": 0.9612,
+        "rw": 0.2755,
+        "chi2_reduced": 0.075777
+      },
+      {
+        "phase": "Si",
+        "calc_index": 0,
+        "pearson": 0.5853,
+        "rw": 0.8098,
+        "chi2_reduced": 0.684038
+      }
+    ],
+    "product_r": 0.4964,
+    "mean_r": 0.8096,
+    "min_r": 0.5853,
+    "mean_rw": 0.5186,
+    "max_rw": 0.8098
+  }
+]

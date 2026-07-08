@@ -1,0 +1,54 @@
+########################################################################
+# mpbcliga
+# mpbcliga 1.2.1.post39 3337c18 2025-06-16 16:20:47 -0400 Simon Billinge
+# Compiled with Apple LLVM 17.0.0 (clang-1700.0.13.5).
+# Josies-MacBook-Air.local
+# Mon Jul  6 17:31:31 2026
+########################################################################
+distfile=/Users/josievs/Desktop/MOF modeling/data/liga/Cu_mp-30_run/target.dst
+outstru=/Users/josievs/Desktop/MOF modeling/data/liga/Cu_mp-30_solved.xyz
+outfmt=rawxyz
+saverate=0
+saveall=0
+trace=0
+verbose=wc,bc,sc
+ndim=3
+crystal=1
+latpar=3.57743,3.57743,3.57743,90,90,90
+rmax=6.69229
+distreuse=1
+costweights=1,1
+tolcost=0.0001
+formula=C4
+maxwalltime=180
+rngseed=42
+promotefrac=0.1
+promoterelax=0
+demoterelax=0
+ligasize=10
+stopgame=0.0025
+seasontrials=16384
+trialsharing=success
+########################################################################
+
+Initial team
+0 I 0 0
+Filling lower divisions
+Done
+0 WC 0 0 dc 0 oc 0
+0 BC 0 0 dc 0 oc 0
+
+Starting the game ... now.
+1 WC 4 1.15457e-06 dc 1.15457e-06 oc 0
+1 BC 4 1.15457e-06 dc 1.15457e-06 oc 0
+Solution found!!!
+
+Run statistics:
+R3_distance_calls = 1097
+R3_norm_calls = 2486762
+penalty_calls = 374293
+UserCPUtime = 0.08s
+walltime = 1s
+Host = Josies-MacBook-Air.local
+/Users/josievs/miniforge3/envs/mof/lib/python3.12/site-packages/diffpy/structure/structure.py:196: UserWarning: Duplicate atom C already exists at array([0., 0., 0.])
+  self.add_new_atom(*args, **kwargs)
