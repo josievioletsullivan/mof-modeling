@@ -12,3 +12,4 @@ external/
 # LIGA verbose iteration logs + solver working dirs (junk; keep summaries + solved xyz)
 data/liga/*.log
 data/liga/*_run/
+.DS_Store
